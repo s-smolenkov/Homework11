@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework11</string>
+    <string name="oliver_queen">Oliver Queen</string>
+    <string name="green_arrow">Green Arrow</string>
+    <string name="bio">Oliver Jonas \"Ollie\" Queen (May 16, 1985[1] – December 10, 2019;[2] December 10, 2019 – the dawn of time[3]; briefly resurrected 2023/2049) was a billionaire and former playboy, turned archer superhero of Star City, and the leader of Team Arrow, who later died as savior of the multiverse. He was the son of the late Robert Queen and Moira Queen, the older paternal half-brother of Emiko Adachi, the older maternal half-brother of Thea Queen, the husband of Felicity Smoak, and the father of William Clayton and Mia Queen. He was also the ex-boyfriend/good friend of the late Laurel Lance, Sara Lance, and Shado. He was also the best friend of Tommy Merlyn and John Diggle, and a good friend of Barry Allen, Quentin Lance, Roy Harper, Lyla Michaels, Anatoly Knyazev, Ray Palmer, Kara Danvers, Rene Ramirez, Dinah Drake, and Curtis Holt.</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+</resources>
